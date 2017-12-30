@@ -1,3 +1,4 @@
 start,status,timestamp,temp1,temp2,temp3,temp4,temp5,temp6,temp7,temp8,humid1,humid2,humid3,humid4,humid5,humid6,humid7,humid8,tempcomb,humidcomb,wind,raina,rain,stop
 $1,1,2017-12-31 00:01:10.525035,,,,,,,,,,,,,,,,,11.9,68,1.9,1762,0,0
 $1,1,2017-12-31 00:03:43.088761,,,,,,,,,,,,,,,,,11.8,68,1.1,1762,0,0
+$1,1,2017-12-31 00:06:15.543441,,,,,,,,,,,,,,,,,11.9,68,1.1,1762,0,0
